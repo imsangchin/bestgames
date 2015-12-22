@@ -1,0 +1,1 @@
+package com.wandoujia.account.email;public interface IMailService {    public void sendMail(final MailContent mailContent);}
